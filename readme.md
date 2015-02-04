@@ -18,4 +18,4 @@ Build Docker Image ```docker build -t <mymonit> .```
 
 Monit Image is ready and can be invoked as ```docker run -d -p 2812:2812 <mymonit>```
 
-Monit is now running and is available at <host-ip>:2812 
+Monit is now running and is available at ```<host-ip>:2812``` 
